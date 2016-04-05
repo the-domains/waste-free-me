@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Waste Free Me]]></title>
+        <description><![CDATA[Waste Free Me]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 04:10:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>undefinedd52845fb-6551-4d92-a77c-4566123fb889/index.html</link>
+            <guid isPermaLink="false">d52845fb-6551-4d92-a77c-4566123fb889</guid>
+            <pubDate>Tue, 05 Apr 2016 04:10:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
